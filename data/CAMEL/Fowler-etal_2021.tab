@@ -1,0 +1,27 @@
+/* DATA DESCRIPTION:
+Citation:	Fowler, Keirnan; Acharya, Suwash Chandra; Addor, Nans; Chou, Chihchung; Peel, Murray (2020): CAMELS-AUS v1: Hydrometeorological time series and landscape attributes for 222 catchments in Australia. PANGAEA, https://doi.org/10.1594/PANGAEA.921850
+Abstract:	This is the Australian edition of the Catchment Attributes and Meteorology for Large-sample Studies (CAMELS) series of datasets. CAMELS-AUS comprises data for 222 unregulated catchments, combining hydrometeorological timeseries (streamflow and 18 climatic variables) with 134 attributes related to geology, soil, topography, land cover, anthropogenic influence, and hydroclimatology. The CAMELS-AUS catchments have been monitored for decades (more than 85% have streamflow records longer than 40 years) and are relatively free of large scale changes, such as significant changes in landuse. Rating curve uncertainty estimates are provided for most (75%) of the catchments and multiple atmospheric datasets are included, offering insights into forcing uncertainty. This dataset allows users globally to freely access catchment data drawn from Australia's unique hydroclimatology, particularly notable for its large interannual variability. Combined with arid catchment data from the CAMELS datasets for USA and Chile, CAMELS-AUS constitutes an unprecedented resource for the study of arid-zone hydrology.
+	---
+	To download the dataset, please click the link below "View dataset as HTML".
+Keyword(s):	hydrological modelling; large sample hydrology; large scale hydrology
+Supplement to:	Fowler, Keirnan; Acharya, Suwash Chandra; Addor, Nans; Chou, Chihchung; Peel, Murray (in review): CAMELS-AUS: Hydrometeorological time series and landscape attributes for 222 catchments in Australia. Earth System Science Data Discussions, https://doi.org/10.5194/essd-2020-228
+Original version:	Fowler, Keirnan; Acharya, Suwash Chandra; Addor, Nans; Chou, Chihchung; Peel, Murray (2020): CAMELS-AUS v1: Hydrometeorological time series and landscape attributes for 222 catchments in Australia. PANGAEA, https://doi.org/10.1594/PANGAEA.933619
+Coverage:	LATITUDE: -26.216000 * LONGITUDE: 134.904000
+Event(s):	australia * LATITUDE: -26.216000 * LONGITUDE: 134.904000
+Parameter(s):	Binary Object (Binary) * PI: Fowler, Keirnan (https://orcid.org/0000-0002-1983-0253, kjafowler@gmail.com)
+	Binary Object (Media Type) (Binary (Type)) * PI: Fowler, Keirnan (https://orcid.org/0000-0002-1983-0253, kjafowler@gmail.com)
+	Binary Object (File Size) [Bytes] (Binary (Size)) * PI: Fowler, Keirnan (https://orcid.org/0000-0002-1983-0253, kjafowler@gmail.com)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Size:	9 data points
+Files:	All files referred to in data matrix can be downloaded in one go as ZIP <https://download.pangaea.de/dataset/921850/allfiles.zip> or TAR <https://download.pangaea.de/dataset/921850/allfiles.tar> (PANGAEA user account required). To download single files, use the filename from data matrix appended to "https://download.pangaea.de/dataset/921850/files/".
+*/
+Binary	Binary (Type)	Binary (Size) [Bytes]
+01_id_name_metadata.zip	application/zip	6.5 kBytes
+02_location_boundary_area.zip	application/zip	52.4 MBytes
+03_streamflow.zip	application/zip	38 MBytes
+04_attributes.zip	application/zip	557.9 kBytes
+05_hydrometeorology.zip	application/zip	822 MBytes
+CAMELS_AUS_Attributes&Indices_MasterTable.csv	text/plain	280.1 kBytes
+CAMELS_AUS_ReferenceList.pdf	application/pdf	142.7 kBytes
+Units_01_TimeseriesData.pdf	application/pdf	142.2 kBytes
+Units_02_AttributeMasterTable.pdf	application/pdf	353.6 kBytes
